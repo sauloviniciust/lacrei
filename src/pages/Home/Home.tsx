@@ -2,8 +2,8 @@
 
 const Home = () => {
     return (
-      <section className="flex flex-col lg:flex-row  gap-10 lg:justify-between mt-28 lg:mt-40 ">
-          <div className="lg:w-1/3 mx-4 sm:mx-auto">
+      <section className="flex flex-col  lg:flex-row  gap-10 lg:justify-between mt-28 lg:mt-40 ">
+          <div className="lg:w-1/3 mx-4 sm:mx-auto  lg:mb-80">
             <h1 className="text-2xl sm:text-3xl leading-tight font font-bold font-nunito lg:text-5xl">
               Boas vindas a Lacrei Saúde
             </h1>
@@ -25,7 +25,7 @@ const Home = () => {
             </div>
           </div>
 
-          <div>
+          <div className="lg:w-1/3 mx-4 sm:mx-auto">
             <img src="imgHome.png" alt="Ilustração de um medico uniformizado" />
           </div>
 

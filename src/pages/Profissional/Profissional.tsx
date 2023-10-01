@@ -13,7 +13,7 @@ const Prof = () => {
 
       <div>
         <img
-          src="profissional 1.png"
+          src="profissional.png"
           alt="Ilustração de medicos e enfermeiros conversando"
         />
       </div>

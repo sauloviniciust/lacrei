@@ -14,7 +14,7 @@ const User = () => {
 
       <div>
         <img
-          src="rafiki 1.png"
+          src="user.png"
           alt="Ilustração de usuarios acessando o celular"
         />
       </div>
