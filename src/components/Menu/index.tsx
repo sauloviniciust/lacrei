@@ -2,7 +2,7 @@
 
 const Menu = () => {
     return (
-		<nav className="w-full fixed top-0 bg-stone-200 sm:py-3 sm:px-8">
+		<nav className="w-full fixed top-0 bg-stone-200 sm:py-3 sm:px-8 ">
 			<div className="flex flex-col sm:flex-row sm:justify-between items-center font-sans ">
 				<div className="my-auto font-bold text-4xl">
 					<a className="font-nunito text-emerald-600 hover:text-emerald-500" href="/" >Lacrei</a>
